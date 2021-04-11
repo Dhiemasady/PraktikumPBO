@@ -15,7 +15,7 @@ public class Tabung extends BangunRuang{
     
     @Override
     double luasPermukaan(){
-        return Math.PI*jari*jari+2*Math.PI*jari*tinggi;
+        return 2*Math.PI*jari*jari+2*Math.PI*jari*tinggi;
     }
     
     void tampilkan(){
