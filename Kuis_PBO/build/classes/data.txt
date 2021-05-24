@@ -1,0 +1,8 @@
+Email : raka@gmail.com
+Username : raka123
+Password : [1, 2, 3, 4, 5]
+Nama Lengkap : rakha m
+Tempat, Tanggal Lahir : solo 20 agus
+Jenis Kelamin : Laki-Laki
+Alamat : jl jamsa
+Deskripsi Diri Sendiri : tes
