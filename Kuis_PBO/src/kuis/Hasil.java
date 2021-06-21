@@ -7,7 +7,7 @@ package kuis;
 
 /**
  *
- * @author rakha mohammad
+ * @author test
  */
 public class Hasil extends javax.swing.JFrame {
 
